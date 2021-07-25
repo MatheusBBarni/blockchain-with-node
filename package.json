@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "run:test": "node ./src/test",
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
