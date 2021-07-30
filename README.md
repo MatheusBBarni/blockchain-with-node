@@ -1,3 +1,8 @@
-## ENG: Blockchain with Node.js: Build your Blockchain | PT-BR: Blockchain com Node.js: Contrua a sua Blockchain
+# About
+In this repository we build two projects, the first one is a blockchain and the second one we built two servers, a http server to 'mine blocks' and get 'blocks' of the blockchain and a P2P (peer-to-peer) server to connect multiple clients and sync the blockchain with them.
 
-[Course](https://www.udemy.com/course/blockchain-com-nodejs-contrua-a-sua-blockchain/)
+
+#### Links
+- 1º Course: [ENG: Blockchain with Node.js: Build your Blockchain | PT-BR: Blockchain com Node.js: Contrua a sua Blockchain](https://www.udemy.com/course/blockchain-com-nodejs-contrua-a-sua-blockchain/)
+
+- 2º Course: [ENG: Create Your Backend Application for Blockchain With Node.js | PT-BR: Crie sua Aplicação Backend p/ Blockchain Com Node.js](https://www.udemy.com/course/crie-aplicacao-completa-backend-para-blockchain-em-nodejs/)
