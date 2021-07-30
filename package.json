@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "run:test": "node ./src/test",
     "test": "jest --watchAll"
   },
   "dependencies": {
