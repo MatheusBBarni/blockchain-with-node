@@ -1,9 +1,8 @@
 const express = require('express')
 
+const { HTTP_PORT } = require('../config')
 const Blockchain = require('../blockchain')
 const P2pServer = require('./p2p-server')
-
-const HTTP_PORT = process.env.HTTP_PORT || 3001
 
 const app = express()
 app.use(express.json())
