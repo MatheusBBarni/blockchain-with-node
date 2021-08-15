@@ -1,6 +1,6 @@
 const express = require('express')
 
-const { HTTP_PORT } = require('../config')
+const { HTTP_PORT } = require('../../config')
 const Blockchain = require('../blockchain')
 const P2pServer = require('./p2p-server')
 

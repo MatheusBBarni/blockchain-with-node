@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node ./app",
-    "dev": "node ./app",
+    "start": "node ./src/app",
+    "dev": "node ./src/app",
     "test": "jest --watchAll"
   },
   "dependencies": {
