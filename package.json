@@ -1,4 +1,6 @@
 {
+  "name": "blockchain-with-node",
+  "license": "MIT",
   "scripts": {
     "start": "node ./src/app",
     "dev": "node ./src/app",
@@ -6,6 +8,7 @@
   },
   "dependencies": {
     "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
     "express": "^4.17.1",
     "ws": "^8.0.0"
   },
