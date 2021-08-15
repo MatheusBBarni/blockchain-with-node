@@ -1,5 +1,5 @@
 # About
-In this repository we build two projects, the first one is a blockchain and the second one we built two servers, a http server to 'mine blocks' and get 'blocks' of the blockchain and a P2P (peer-to-peer) server to connect multiple clients and sync the blockchain with them.
+In this repository we build two projects, the first one is a blockchain and the second one we built two servers, a http server to 'mine blocks' and get 'blocks' of the blockchain and a P2P (peer-to-peer) server to connect multiple clients and sync the blockchain with them. We implemented a **Proof of work** algorithm when someone want to mine a block and now we are implementing a **Wallet** to store someones data.
 
 
 #### Links
